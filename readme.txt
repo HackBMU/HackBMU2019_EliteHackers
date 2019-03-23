@@ -9,8 +9,8 @@ Advantages for the user
 2.) Motion Detection - Motion detection is useful to detect the traffic in particular area.
 3.) Unfamiliar gathering - The unfamiliar gathering detection could be challenging task to implement on the machine learning because it can
     produce the false result. So we came up with the idea that in any unfamiliar gatherings the crowd suddenly gets dispersed away from 
-	the gathering. Many people will run here and there are there would be a lot of chaos. So we can easily detect this dispersing crowd 
-	using the machine learning.
+the gathering. Many people will run here and there are there would be a lot of chaos. So we can easily detect this dispersing crowd 
+using the machine learning.
 
 	And apart from these we are thinking to implement and define the path which the drone will traverse in order to monitor the streets
 	and collect and send the data to the particular centralized server.
